@@ -55,10 +55,14 @@ print(generate_poem(model, seed_text))
 - **Input**: `"I wandered lonely as a"`
 
 - **OneHotRNN Output**:  
-  `"... desert the child that by the women, sings of the country fast..."`
+  `"I wandered lonely as a great had left behind a heart life shot, can laugh and free late? The pilot 
+desert the child that by the women, sings of the country fast, And now we shall I’d To sing me 
+all my only ride The ring beside the touch And now We with me beneath..."`
 
 - **EmbeddingLSTM Output**:  
-  `"... this all that is not by the great tomb of man. The golden sun..."`
+  `"“I wandered lonely as a trifle, they are not the small returns to the inner were ever the to that 
+sun, I can do nothing and my red them. And what are you? this all that is not by the great tomb 
+of man. The golden sun, The planets, all the infinite host of heaven, ..."`
 
 ## Tech Stack
 
