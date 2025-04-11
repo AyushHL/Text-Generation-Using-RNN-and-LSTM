@@ -16,7 +16,7 @@ A deep learning project to generate poetry using Recurrent Neural Networks (RNN)
 
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Poem-Text-Generation.git
+git clone https://github.com/AyushHL/Poem-Text-Generation.git
 cd Poem-Text-Generation
 ```
 
